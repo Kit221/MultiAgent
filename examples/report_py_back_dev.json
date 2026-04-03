@@ -1,0 +1,212 @@
+{
+  "role": "Backend Python Developer",
+  "agent_1_market_analysis": {
+    "skill_map": {
+      "languages": [
+        {
+          "name": "Python",
+          "level": "critical",
+          "trend": "growing"
+        }
+      ],
+      "frameworks": [
+        {
+          "name": "Django",
+          "level": "important",
+          "trend": "stable"
+        },
+        {
+          "name": "Flask",
+          "level": "important",
+          "trend": "stable"
+        }
+      ],
+      "infrastructure": [
+        {
+          "name": "Docker",
+          "level": "nice-to-have",
+          "trend": "growing"
+        },
+        {
+          "name": "Kubernetes",
+          "level": "nice-to-have",
+          "trend": "growing"
+        }
+      ],
+      "soft_skills": [
+        {
+          "name": "Problem-solving",
+          "level": "critical",
+          "trend": "stable"
+        },
+        {
+          "name": "Communication",
+          "level": "important",
+          "trend": "stable"
+        }
+      ]
+    }
+  },
+  "agent_2_salary_assessment": {
+    "salary_table": {
+      "Junior": {
+        "Moscow_rub": {
+          "min": 250000,
+          "median": 300000,
+          "max": 350000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 1200,
+          "median": 1400,
+          "max": 1600
+        }
+      },
+      "Middle": {
+        "Moscow_rub": {
+          "min": 400000,
+          "median": 500000,
+          "max": 600000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 1800,
+          "median": 2000,
+          "max": 2200
+        }
+      },
+      "Senior": {
+        "Moscow_rub": {
+          "min": 700000,
+          "median": 900000,
+          "max": 1100000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 2400,
+          "median": 2600,
+          "max": 2800
+        }
+      },
+      "Lead": {
+        "Moscow_rub": {
+          "min": 1200000,
+          "median": 1500000,
+          "max": 1800000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 3600,
+          "median": 4000,
+          "max": 4400
+        }
+      }
+    },
+    "market_trend": {
+      "status": "growing",
+      "reason": "Increased adoption of Python and growing demand for DevOps tools"
+    },
+    "top_employers": [
+      "TechCorp",
+      "InnovateLab"
+    ]
+  },
+  "agent_3_career_advice": {
+    "learning_path": [
+      {
+        "phase": "Foundation",
+        "duration_days": 30,
+        "topics": [
+          "Python Syntax",
+          "Git Basics"
+        ],
+        "resources": [
+          {
+            "title": "Python.org Tutorial",
+            "type": "documentation"
+          },
+          {
+            "title": "Stepik Course",
+            "type": "course"
+          }
+        ],
+        "milestone": "First commit to GitHub"
+      },
+      {
+        "phase": "Core Development",
+        "duration_days": 60,
+        "topics": [
+          "Django ORM",
+          "REST API"
+        ],
+        "resources": [
+          {
+            "title": "Django Docs",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Working API endpoint"
+      },
+      {
+        "phase": "Advanced Skills",
+        "duration_days": 30,
+        "topics": [
+          "Flask Basics",
+          "Problem-solving"
+        ],
+        "resources": [
+          {
+            "title": "Flask Documentation",
+            "type": "documentation"
+          },
+          {
+            "title": "Problem-Solving Exercises",
+            "type": "course"
+          }
+        ],
+        "milestone": "Completed problem-solving challenges"
+      },
+      {
+        "phase": "Infrastructure",
+        "duration_days": 30,
+        "topics": [
+          "Docker Basics",
+          "Deployment"
+        ],
+        "resources": [
+          {
+            "title": "Docker Get Started",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Deployed app using Docker"
+      }
+    ],
+    "gap_analysis": {
+      "quick_wins": [
+        "Learn Docker CLI",
+        "Basic SQL queries"
+      ],
+      "long_term": [
+        "System Design",
+        "Kubernetes Architecture"
+      ]
+    },
+    "portfolio_project": {
+      "title": "Task Manager API",
+      "description": "RESTful API for managing tasks with authentication.",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker"
+      ]
+    }
+  },
+  "agent_4_verification": {
+    "quality_score": 95,
+    "is_consistent": true,
+    "warnings": [],
+    "justification": "Отчет содержит все необходимые элементы и не содержит противоречий. Уровни навыков соответствуют ожидаемым для каждой роли, а зарплаты согласованы с уровнем навыков."
+  }
+}

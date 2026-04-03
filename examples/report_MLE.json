@@ -1,0 +1,261 @@
+{
+  "role": "ML Engineer",
+  "agent_1_market_analysis": {
+    "skill_map": {
+      "languages": [
+        {
+          "name": "Python",
+          "level": "critical",
+          "trend": "growing"
+        },
+        {
+          "name": "R",
+          "level": "important",
+          "trend": "stable"
+        }
+      ],
+      "frameworks": [
+        {
+          "name": "TensorFlow",
+          "level": "critical",
+          "trend": "growing"
+        },
+        {
+          "name": "PyTorch",
+          "level": "critical",
+          "trend": "growing"
+        },
+        {
+          "name": "Scikit-learn",
+          "level": "important",
+          "trend": "stable"
+        }
+      ],
+      "infrastructure": [
+        {
+          "name": "AWS",
+          "level": "nice-to-have",
+          "trend": "growing"
+        },
+        {
+          "name": "Google Cloud Platform",
+          "level": "nice-to-have",
+          "trend": "growing"
+        },
+        {
+          "name": "Docker",
+          "level": "important",
+          "trend": "stable"
+        }
+      ],
+      "soft_skills": [
+        {
+          "name": "Problem-solving",
+          "level": "critical",
+          "trend": "stable"
+        },
+        {
+          "name": "Communication",
+          "level": "critical",
+          "trend": "stable"
+        },
+        {
+          "name": "Teamwork",
+          "level": "important",
+          "trend": "stable"
+        }
+      ]
+    }
+  },
+  "agent_2_salary_assessment": {
+    "salary_table": {
+      "Junior": {
+        "Moscow_rub": {
+          "min": 250000,
+          "median": 300000,
+          "max": 350000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 1200,
+          "median": 1400,
+          "max": 1600
+        }
+      },
+      "Middle": {
+        "Moscow_rub": {
+          "min": 450000,
+          "median": 550000,
+          "max": 650000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 2000,
+          "median": 2300,
+          "max": 2700
+        }
+      },
+      "Senior": {
+        "Moscow_rub": {
+          "min": 800000,
+          "median": 950000,
+          "max": 1100000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 3500,
+          "median": 4200,
+          "max": 4800
+        }
+      },
+      "Lead": {
+        "Moscow_rub": {
+          "min": 1200000,
+          "median": 1500000,
+          "max": 1800000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 6000,
+          "median": 7500,
+          "max": 9000
+        }
+      }
+    },
+    "market_trend": {
+      "status": "growing",
+      "reason": "Increased demand for data science and cloud technologies"
+    },
+    "top_employers": [
+      "Yandex",
+      "Mail.ru Group",
+      "Sber"
+    ]
+  },
+  "agent_3_career_advice": {
+    "learning_path": [
+      {
+        "phase": "Foundation",
+        "duration_days": 30,
+        "topics": [
+          "Python Syntax",
+          "Git Basics"
+        ],
+        "resources": [
+          {
+            "title": "Python.org Tutorial",
+            "type": "documentation"
+          },
+          {
+            "title": "Stepik Course",
+            "type": "course"
+          }
+        ],
+        "milestone": "First commit to GitHub"
+      },
+      {
+        "phase": "Core Skills",
+        "duration_days": 60,
+        "topics": [
+          "TensorFlow Basics",
+          "PyTorch Basics"
+        ],
+        "resources": [
+          {
+            "title": "TensorFlow Guide",
+            "type": "documentation"
+          },
+          {
+            "title": "PyTorch Docs",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Trained simple neural network"
+      },
+      {
+        "phase": "Advanced Skills",
+        "duration_days": 60,
+        "topics": [
+          "Scikit-learn for ML",
+          "AWS Basics"
+        ],
+        "resources": [
+          {
+            "title": "Scikit-learn Documentation",
+            "type": "documentation"
+          },
+          {
+            "title": "AWS Getting Started Guide",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Deployed machine learning model on AWS"
+      },
+      {
+        "phase": "Infrastructure",
+        "duration_days": 30,
+        "topics": [
+          "Docker Basics",
+          "Kubernetes Introduction"
+        ],
+        "resources": [
+          {
+            "title": "Docker Get Started",
+            "type": "documentation"
+          },
+          {
+            "title": "Kubernetes Docs",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Deployed app with Docker"
+      },
+      {
+        "phase": "Soft Skills",
+        "duration_days": 30,
+        "topics": [
+          "Problem-solving Techniques",
+          "Effective Communication"
+        ],
+        "resources": [
+          {
+            "title": "Problem Solving Book",
+            "type": "book"
+          },
+          {
+            "title": "Communication Skills Course",
+            "type": "course"
+          }
+        ],
+        "milestone": "Completed communication skills course"
+      }
+    ],
+    "gap_analysis": {
+      "quick_wins": [
+        "Learn Docker CLI",
+        "Basic SQL queries"
+      ],
+      "long_term": [
+        "System Design",
+        "Kubernetes Architecture"
+      ]
+    },
+    "portfolio_project": {
+      "title": "Sentiment Analysis API",
+      "description": "RESTful API for analyzing sentiment of text data.",
+      "tech_stack": [
+        "Python",
+        "Flask",
+        "TensorFlow",
+        "PostgreSQL",
+        "Docker"
+      ]
+    }
+  },
+  "agent_4_verification": {
+    "quality_score": 95,
+    "is_consistent": true,
+    "warnings": [],
+    "justification": "Отчет содержит все необходимые элементы и не содержит противоречий. Навыки, связанные с критически важными задачами (критическими навыками), имеют соответствующую зарплату."
+  }
+}

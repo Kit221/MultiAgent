@@ -1,0 +1,197 @@
+{
+  "role": "iOS Developer (Swift)",
+  "agent_1_market_analysis": {
+    "skill_map": {
+      "languages": [
+        {
+          "name": "Swift",
+          "level": "critical",
+          "trend": "growing"
+        }
+      ],
+      "frameworks": [
+        {
+          "name": "UIKit",
+          "level": "important",
+          "trend": "stable"
+        },
+        {
+          "name": "Combine",
+          "level": "nice-to-have",
+          "trend": "growing"
+        }
+      ],
+      "infrastructure": [
+        {
+          "name": "Xcode",
+          "level": "critical",
+          "trend": "stable"
+        }
+      ],
+      "soft_skills": [
+        {
+          "name": "Problem-solving",
+          "level": "important",
+          "trend": "stable"
+        },
+        {
+          "name": "Attention to detail",
+          "level": "important",
+          "trend": "stable"
+        }
+      ]
+    }
+  },
+  "agent_2_salary_assessment": {
+    "salary_table": {
+      "Junior": {
+        "Moscow_rub": {
+          "min": 250000,
+          "median": 300000,
+          "max": 350000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 1200,
+          "median": 1400,
+          "max": 1600
+        }
+      },
+      "Middle": {
+        "Moscow_rub": {
+          "min": 400000,
+          "median": 500000,
+          "max": 600000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 1800,
+          "median": 2000,
+          "max": 2200
+        }
+      },
+      "Senior": {
+        "Moscow_rub": {
+          "min": 700000,
+          "median": 900000,
+          "max": 1100000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 2400,
+          "median": 2600,
+          "max": 2800
+        }
+      },
+      "Lead": {
+        "Moscow_rub": {
+          "min": 1200000,
+          "median": 1500000,
+          "max": 1800000
+        },
+        "Regions_rub": null,
+        "Remote_usd": {
+          "min": 3600,
+          "median": 4000,
+          "max": 4400
+        }
+      }
+    },
+    "market_trend": {
+      "status": "growing",
+      "reason": "Increased demand for iOS development and growing popularity of Swift and Combine frameworks"
+    },
+    "top_employers": [
+      "Apple",
+      "Mail.ru Group"
+    ]
+  },
+  "agent_3_career_advice": {
+    "learning_path": [
+      {
+        "phase": "Foundation",
+        "duration_days": 30,
+        "topics": [
+          "Swift Basics",
+          "UIKit Fundamentals"
+        ],
+        "resources": [
+          {
+            "title": "Swift Documentation",
+            "type": "documentation"
+          },
+          {
+            "title": "Apple Developer University",
+            "type": "course"
+          }
+        ],
+        "milestone": "Completed Swift and UIKit projects"
+      },
+      {
+        "phase": "Advanced",
+        "duration_days": 30,
+        "topics": [
+          "Combine Framework",
+          "Xcode Best Practices"
+        ],
+        "resources": [
+          {
+            "title": "Combine by Example",
+            "type": "course"
+          },
+          {
+            "title": "Xcode User Guide",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Developed a complex Combine-based application"
+      },
+      {
+        "phase": "Portfolio",
+        "duration_days": 30,
+        "topics": [
+          "iOS App Deployment",
+          "Version Control"
+        ],
+        "resources": [
+          {
+            "title": "Xcode Release Notes",
+            "type": "documentation"
+          },
+          {
+            "title": "GitHub Documentation",
+            "type": "documentation"
+          }
+        ],
+        "milestone": "Deployed an iOS app to the App Store"
+      }
+    ],
+    "gap_analysis": {
+      "quick_wins": [
+        "Learn Combine in-depth",
+        "Advanced UI/UX design"
+      ],
+      "long_term": [
+        "System Architecture for iOS apps",
+        "Cross-platform development with Swift"
+      ]
+    },
+    "portfolio_project": {
+      "title": "Task Management App",
+      "description": "iOS app for managing tasks with authentication and notifications.",
+      "tech_stack": [
+        "Swift",
+        "UIKit",
+        "Combine",
+        "Firebase Authentication",
+        "Xcode"
+      ]
+    }
+  },
+  "agent_4_verification": {
+    "quality_score": 95,
+    "is_consistent": true,
+    "warnings": [],
+    "justification": "Отчет содержит все необходимые элементы и не содержит противоречий. Связь между навыками и зарплатами выглядит логичной, учитывая текущие тенденции на рынке."
+  }
+}
